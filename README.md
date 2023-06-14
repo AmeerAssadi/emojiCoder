@@ -7,7 +7,7 @@
 You can install `emojiCoder` via npm:
 
 ```
-npm install emojiCoder
+npm install emojicoder
 ```
 
 ## Usage
