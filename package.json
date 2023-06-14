@@ -1,0 +1,28 @@
+{
+  "name": "emojiCoder",
+  "version": "1.0.0",
+  "description": "A package that converts regular text into emoji-representative text. For instance, it can turn \"I love pizza\" into \"I ❤️ 🍕\".",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/AmeerAssadi/emojiCoder.git"
+  },
+  "keywords": [
+    "emoji",
+    "text-to-emoji",
+    "emoji-converter"
+  ],
+  "author": "Ameer Assadi",
+  "license": "MIT",
+  "files": [
+    "index.js",
+    "emojiDictionary.json"
+  ],
+  "homepage": "https://github.com/AmeerAssadi/emojiCoder",
+  "bugs": {
+    "url": "https://github.com/AmeerAssadi/emojiCoder/issues"
+  }
+}
