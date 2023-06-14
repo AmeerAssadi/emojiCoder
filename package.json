@@ -1,5 +1,5 @@
 {
-  "name": "emojicoder",
+  "name": "@ameerassadi/emojicoder",
   "version": "1.0.0",
   "description": "A package that converts regular text into emoji-representative text. For instance, it can turn \"I love pizza\" into \"I ❤️ 🍕\".",
   "main": "index.js",
@@ -9,6 +9,9 @@
   "repository": {
     "type" : "git",
     "url" : "https://github.com/AmeerAssadi/emojiCoder.git"
+  },
+  "publishConfig": {
+  "registry":"https://npm.pkg.github.com/AmeerAssadi"
   },
   "keywords": [
     "emoji",
